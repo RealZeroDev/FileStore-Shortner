@@ -24,8 +24,8 @@ API_HASH = os.environ.get("API_HASH", "608b71c13cec20da6662327fa1fc7d35") #Your 
 #--------------------------------------------
 
 CHANNEL_ID = int(os.environ.get("CHANNEL_ID", "-1002861366260"))  # your db channel Id
-OWNER = os.environ.get("OWNER", "Realzeroking")) # Owner username without @
-OWNER_ID = int(os.environ.get("OWNER_ID", "6819408964")) # Owner id
+OWNER = os.environ.get("OWNER", "Realzeroking")  # Owner username without @
+OWNER_ID = int(os.environ.get("OWNER_ID", "6819408964"))  # Owner id
 #--------------------------------------------
 PORT = os.environ.get("PORT", "8001")
 #--------------------------------------------
@@ -91,7 +91,7 @@ USER_REPLY_TEXT = "ʙᴀᴋᴋᴀ ! ʏᴏᴜ ᴀʀᴇ ɴᴏᴛ ᴍʏ ꜱᴇɴᴘ
 
 #==========================(BUY PREMIUM)====================#
 
-OWNER_TAG = os.environ.get("OWNER_TAG", "RealZeroking)
+OWNER_TAG = os.environ.get("OWNER_TAG", "RealZeroking")
 UPI_ID = os.environ.get("UPI_ID", "realzero@ptyes")
 QR_PIC = os.environ.get("QR_PIC", "https://telegra.ph/file/3e83c69804826b3cba066-16cffa90cd682570da.jpg")
 SCREENSHOT_URL = os.environ.get("SCREENSHOT_URL", f"t.me/RealZeroking")
